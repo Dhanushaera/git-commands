@@ -1,3 +1,2 @@
-push this file to central main and assume as the developer pushed
-now, you need to pull it from the main branch and make changes and push it to your branch
+i have pulled it from the main into my repo and now i want to push to my branch
 then, merge it in the main branch again
